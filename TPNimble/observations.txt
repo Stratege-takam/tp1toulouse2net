@@ -1,0 +1,10 @@
+Le travail a été réalise et testé en considérant les cas même les plus impropables
+- code bien documenté 
+- code simple lisible 
+- bonnes pratiques
+- découpage du travail en petits fonctions
+- teste de chaque fonction 
+- resultat du test 100%
+- taux de réalisation de l'exercice 100%
+
+Vous pouvez vous servir des captures pour mieux juger le travail ou encore vous pouvez faire votre propre test.

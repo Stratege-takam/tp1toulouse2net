@@ -1,0 +1,7 @@
+deux peuvent jouer
+le score est le nombre de fois qu'on
+
+1) creer un  Player(Id, Lastname, Firstname, BirthDate, Gender)
+2) Afficher la liste des joueurs
+3) Attribuer 1pt au vainqueur à la fin du jeu
+
